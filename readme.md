@@ -1,0 +1,3 @@
+Esse é um bot para discord de whitelist automática de interativa para servidores de RedM/FiveM.
+-
+O bot cria uma sala com seu nome para executar 10 perguntas e coletar informações sobre você e seu personagem. Depois, envia essas informações em um canal privado para que os administradores possam ler e avaliar esses dados e então, através da reação por emojis na mensagem, são capazes de aprovar ou reprovar o acesso do usuário ao servidor. Toda a troca de cargos e permissões de visualizar salas é automatizado pelo próprio bot, assim como informar o usuário do seu resultado, a única função dos administradores é realmente apenas ler os dados e aprovar ou reprovar o usuário.
